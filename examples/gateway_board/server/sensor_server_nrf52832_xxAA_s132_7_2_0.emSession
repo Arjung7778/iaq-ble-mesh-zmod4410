@@ -1,0 +1,117 @@
+<!DOCTYPE CrossStudio_Session_File>
+<session>
+ <Bookmarks/>
+ <Breakpoints groups="Breakpoints" active_group="Breakpoints">
+  <Exceptions set="MemManage;UsageFault_Coprocessor;UsageFault_CheckingError;UsageFault_StateError;BusFault;ExceptionEntryReturnFault;HardFault"/>
+ </Breakpoints>
+ <ExecutionProfileWindow/>
+ <FrameBuffer>
+  <FrameBufferWindow width="0" keepAspectRatio="0" zoomToFitWindow="0" showGrid="0" addressSpace="" format="0" height="0" autoEvaluate="0" scaleFactor="1" refreshPeriod="0" name="sensor_server_nrf52832_xxAA_s132_7.2.0_Debug" addressText="" accessByDisplayWidth="0"/>
+ </FrameBuffer>
+ <Memory1>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="sensor_server_nrf52832_xxAA_s132_7.2.0_Debug" sizeText="" addressText=""/>
+ </Memory1>
+ <Memory2>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="sensor_server_nrf52832_xxAA_s132_7.2.0_Debug" sizeText="" addressText=""/>
+ </Memory2>
+ <Memory3>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="sensor_server_nrf52832_xxAA_s132_7.2.0_Debug" sizeText="" addressText=""/>
+ </Memory3>
+ <Memory4>
+  <MemoryWindow addressSpace="" dataSize="1" autoEvaluate="0" viewMode="0" viewType="4" addressOrder="0" columnsText="" refreshPeriod="0" name="sensor_server_nrf52832_xxAA_s132_7.2.0_Debug" sizeText="" addressText=""/>
+ </Memory4>
+ <Project>
+  <ProjectSessionItem path="sensor_server_nrf52832_xxAA_s132_7.2.0"/>
+  <ProjectSessionItem path="sensor_server_nrf52832_xxAA_s132_7.2.0;sensor_server_nrf52832_xxAA_s132_7.2.0"/>
+  <ProjectSessionItem path="sensor_server_nrf52832_xxAA_s132_7.2.0;sensor_server_nrf52832_xxAA_s132_7.2.0;Access"/>
+  <ProjectSessionItem path="sensor_server_nrf52832_xxAA_s132_7.2.0;sensor_server_nrf52832_xxAA_s132_7.2.0;Application"/>
+  <ProjectSessionItem path="sensor_server_nrf52832_xxAA_s132_7.2.0;sensor_server_nrf52832_xxAA_s132_7.2.0;arm-none-eabi-gcc"/>
+  <ProjectSessionItem path="sensor_server_nrf52832_xxAA_s132_7.2.0;sensor_server_nrf52832_xxAA_s132_7.2.0;Bearer"/>
+  <ProjectSessionItem path="sensor_server_nrf52832_xxAA_s132_7.2.0;sensor_server_nrf52832_xxAA_s132_7.2.0;Core"/>
+  <ProjectSessionItem path="sensor_server_nrf52832_xxAA_s132_7.2.0;sensor_server_nrf52832_xxAA_s132_7.2.0;hal"/>
+  <ProjectSessionItem path="sensor_server_nrf52832_xxAA_s132_7.2.0;sensor_server_nrf52832_xxAA_s132_7.2.0;Mesh stack"/>
+  <ProjectSessionItem path="sensor_server_nrf52832_xxAA_s132_7.2.0;sensor_server_nrf52832_xxAA_s132_7.2.0;nRF5 SDK"/>
+  <ProjectSessionItem path="sensor_server_nrf52832_xxAA_s132_7.2.0;sensor_server_nrf52832_xxAA_s132_7.2.0;Other"/>
+  <ProjectSessionItem path="sensor_server_nrf52832_xxAA_s132_7.2.0;sensor_server_nrf52832_xxAA_s132_7.2.0;Provisioning"/>
+  <ProjectSessionItem path="sensor_server_nrf52832_xxAA_s132_7.2.0;sensor_server_nrf52832_xxAA_s132_7.2.0;SEGGER RTT"/>
+  <ProjectSessionItem path="sensor_server_nrf52832_xxAA_s132_7.2.0;sensor_server_nrf52832_xxAA_s132_7.2.0;sensors"/>
+  <ProjectSessionItem path="sensor_server_nrf52832_xxAA_s132_7.2.0;sensor_server_nrf52832_xxAA_s132_7.2.0;Toolchain"/>
+ </Project>
+ <Register1>
+  <RegisterWindow invisibleNodes="" visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="sensor_server_nrf52832_xxAA_s132_7.2.0_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register1>
+ <Register2>
+  <RegisterWindow invisibleNodes="" visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="sensor_server_nrf52832_xxAA_s132_7.2.0_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register2>
+ <Register3>
+  <RegisterWindow invisibleNodes="" visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="sensor_server_nrf52832_xxAA_s132_7.2.0_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register3>
+ <Register4>
+  <RegisterWindow invisibleNodes="" visibleNodes="CPU - Current Context/r0;CPU - Current Context/r1;CPU - Current Context/r2;CPU - Current Context/r3;CPU - Current Context/r4;CPU - Current Context/r5;CPU - Current Context/r6;CPU - Current Context/r7;CPU - Current Context/r8;CPU - Current Context/r9;CPU - Current Context/r10;CPU - Current Context/r11;CPU - Current Context/r12;CPU - Current Context/sp(r13);CPU - Current Context/lr(r14);CPU - Current Context/pc(r15);CPU - Current Context/apsr;CPU/r0;CPU/r1;CPU/r2;CPU/r3;CPU/r4;CPU/r5;CPU/r6;CPU/r7;CPU/r8;CPU/r9;CPU/r10;CPU/r11;CPU/r12;CPU/sp(r13);CPU/lr(r14);CPU/pc(r15);CPU/xpsr;CPU/MSP;CPU/PSP;CPU/PRIMASK;CPU/BASEPRI;CPU/FAULTMASK;CPU/CONTROL;CPU/internal" binaryNodes="" asciiNodes="" openNodes="CPU - Current Context" name="sensor_server_nrf52832_xxAA_s132_7.2.0_Debug" decimalNodes="" octalNodes="" unsignedNodes=""/>
+ </Register4>
+ <Threads>
+  <ThreadsWindow showLists=""/>
+ </Threads>
+ <TraceWindow>
+  <Trace enabled="Yes"/>
+ </TraceWindow>
+ <Watch1>
+  <Watches active="1" update="Never"/>
+ </Watch1>
+ <Watch2>
+  <Watches active="0" update="Never"/>
+ </Watch2>
+ <Watch3>
+  <Watches active="0" update="Never"/>
+ </Watch3>
+ <Watch4>
+  <Watches active="0" update="Never"/>
+ </Watch4>
+ <Files>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="280" useTextEdit="1" path="src/main.c" left="0" selected="1" top="241" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="29" y="10" useTextEdit="1" path="src/mesh_vendor_model.c" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="33" y="42" useTextEdit="1" path="src/app_sensor_iaq.c" left="0" top="36" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="56" y="1131" useTextEdit="1" path="../../../mesh/access/src/access.c" left="0" top="1123" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="48" y="273" useTextEdit="1" path="../../../../nRF5_SDK_17.0.2_d674dde/components/libraries/scheduler/app_scheduler.c" left="0" top="256" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="20" y="156" useTextEdit="1" path="../../../mesh/access/api/access.h" left="0" top="141" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="646" useTextEdit="1" path="../../../../nRF5_SDK_17.0.2_d674dde/components/softdevice/s132/headers/nrf_soc.h" left="0" top="633" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="289" useTextEdit="1" path="C:/Program Files/SEGGER/SEGGER Embedded Studio 8.24/source/thumb_crt0.s" left="0" top="278" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="217" useTextEdit="1" path="../../../mesh/core/src/timer_scheduler.c" left="0" top="204" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="117" useTextEdit="1" path="../../../mesh/bearer/src/advertiser.c" left="0" top="85" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="152" useTextEdit="1" path="../../../mesh/core/src/core_tx.c" left="0" top="139" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="121" useTextEdit="1" path="../../../mesh/core/src/core_tx_adv.c" left="0" top="108" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="61" useTextEdit="1" path="../../../mesh/access/api/device_state_manager.h" left="0" top="46" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="184" useTextEdit="1" path="include/nrf_mesh_config_app.h" left="0" top="158" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="296" useTextEdit="1" path="../../common/src/mesh_provisionee.c" left="0" top="282" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="21" y="39" useTextEdit="1" path="../../../mesh/gatt/api/nrf_mesh_gatt.h" left="0" top="16" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="../../../mesh/core/api/nrf_mesh_config_core.h" left="0" top="556" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="30" y="71" useTextEdit="1" path="../../../mesh/core/src/nrf_mesh_configure.c" left="0" top="40" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="55" y="191" useTextEdit="1" path="../../common/src/ble_softdevice_support.c" left="0" top="181" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="25" y="163" useTextEdit="1" path="../../../../nRF5_SDK_17.0.2_d674dde/components/softdevice/s132/headers/ble_gap.h" left="0" top="147" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="4" y="75" useTextEdit="1" path="../../../models/foundation/config/include/config_server_events.h" left="0" top="59" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="12" y="62" useTextEdit="1" path="../../common/include/example_common.h" left="0" top="46" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="40" y="276" useTextEdit="1" path="C:/Program Files/SEGGER/SEGGER Embedded Studio 8.24/include/stdint.h" left="0" top="265" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="2084" useTextEdit="1" path="../../../mesh/access/src/device_state_manager.c" left="0" top="2073" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="2" y="381" useTextEdit="1" path="../../../mesh/core/api/nrf_mesh.h" left="0" top="366" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="5" y="162" useTextEdit="1" path="../../common/src/simple_hal.c" left="0" top="147" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="10" y="64" useTextEdit="1" path="C:/Program Files/SEGGER/SEGGER Embedded Studio 8.24/include/string.h" left="0" top="37" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="188" useTextEdit="1" path="../../../mesh/stack/src/mesh_stack.c" left="0" top="173" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="267" useTextEdit="1" path="../../../mesh/core/src/nrf_mesh.c" left="0" top="260" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="11" y="196" useTextEdit="1" path="../../../../nRF5_SDK_17.0.2_d674dde/components/libraries/timer/app_timer.h" left="0" top="193" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="48" useTextEdit="1" path="../../../../../Renesas-ZMOD4410-IAQ_2nd_Gen-Firmware-4.2.0/Renesas-ZMOD4410-IAQ_2nd_Gen-Firmware/src/algos/iaq_2nd_gen.h" left="0" top="33" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="13" y="264" useTextEdit="1" path="../../../../../Renesas-ZMOD4410-IAQ_2nd_Gen-Firmware-4.2.0/Renesas-ZMOD4410-IAQ_2nd_Gen-Firmware/src/sensors/zmod4xxx.c" left="0" top="249" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="9" y="11" useTextEdit="1" path="../client/src/mesh_vendor_client.h" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="42" y="100" useTextEdit="1" path="../client/src/mesh_vendor_client.c" left="0" top="84" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="30" y="85" useTextEdit="1" path="src/app_uart_gateway.c" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="src/app_uart_gateway.h" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="12" y="5611" useTextEdit="1" path="include/sdk_config.h" left="0" top="5600" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="0" useTextEdit="1" path="../../../../nRF5_SDK_17.0.2_d674dde/modules/nrfx/hal/nrf_uart.h" left="0" top="152" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="2" y="90" useTextEdit="1" path="../../../../nRF5_SDK_17.0.2_d674dde/components/libraries/uart/app_uart.h" left="0" top="69" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="21" y="41" useTextEdit="1" path="../../../../nRF5_SDK_17.0.2_d674dde/components/libraries/uart/app_uart.c" left="0" top="28" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="8" y="11999" useTextEdit="1" path="../../../../nRF5_SDK_17.0.2_d674dde/modules/nrfx/mdk/nrf52_bitfields.h" left="0" top="11985" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="57" y="12" useTextEdit="1" path="src/mesh_vendor_model.h" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="0" y="10" useTextEdit="1" path="src/app_sensor_iaq.h" left="0" top="0" codecName="Default"/>
+  <SessionOpenFile windowGroup="DockEditLeft" x="19" y="111" useTextEdit="1" path="C:/Program Files/SEGGER/SEGGER Embedded Studio 8.24/include/__SEGGER_RTL_FP.h" left="0" top="98" codecName="Default"/>
+ </Files>
+ <EMStudioWindow activeProject="sensor_server_nrf52832_xxAA_s132_7.2.0" fileDialogDefaultFilter="*.c" autoConnectTarget="J-Link" buildConfiguration="Debug" sessionSettings="" debugSearchFileMap="" fileDialogInitialDirectory="C:/Users/Arjun/Desktop/nRF-Mesh/nRF5_SDK_17.0.2_d674dde/integration/nrfx/legacy" debugSearchPath="" autoConnectCapabilities="3711"/>
+</session>
